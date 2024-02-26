@@ -180,10 +180,9 @@ Health dataset: A more complex dataset with (2113x21) dimensions.
 
 It's evident that when the first GA performs relatively well, the second GA doesn't yield substantial improvements. However, in cases where the results of the first GA fall below expectations (e.g., less than 80%), the second GA can effectively identify more promising models and enhance the overall performance by approximately 5%.
 
-### Video: https://youtu.be/exZEM803XCY
 ### Contributors
-- Rafael Souza
 - Arthur Hiratsuka Rezende
+- Rafael Souza
 - João Augusto Fernandes
 - Thiago Ambiel
 - João Pedro Farjoun Silva
