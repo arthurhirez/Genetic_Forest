@@ -1,0 +1,13 @@
+Taxa Mutação,Predação,Genocídio,Método_x,best_score_x,Método_y,best_score_y
+0.01,Predacao,Genocidio,Elitismo,0.9722222222222222,Torneio,0.9166666666666666
+0.04,Predacao,Genocidio,Elitismo,0.9722222222222222,Torneio,0.8888888888888888
+0.07,Predacao,Genocidio,Elitismo,0.8333333333333334,Torneio,0.8888888888888888
+0.01,Predacao,Sem Genocídio,Elitismo,0.9444444444444444,Torneio,0.9444444444444444
+0.04,Predacao,Sem Genocídio,Elitismo,0.9444444444444444,Torneio,0.9444444444444444
+0.07,Predacao,Sem Genocídio,Elitismo,0.9166666666666666,Torneio,0.8888888888888888
+0.01,Sem Predação,Genocidio,Elitismo,0.8611111111111112,Torneio,0.9722222222222222
+0.04,Sem Predação,Genocidio,Elitismo,0.8611111111111112,Torneio,0.9444444444444444
+0.07,Sem Predação,Genocidio,Elitismo,0.8611111111111112,Torneio,0.9166666666666666
+0.01,Sem Predação,Sem Genocídio,Elitismo,1.0,Torneio,0.9166666666666666
+0.04,Sem Predação,Sem Genocídio,Elitismo,0.9444444444444444,Torneio,0.9444444444444444
+0.07,Sem Predação,Sem Genocídio,Elitismo,0.9444444444444444,Torneio,0.9444444444444444
